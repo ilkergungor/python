@@ -1,0 +1,92 @@
+Please wait a moment while I gather a list of all available modules...
+
+test_sqlite3: testing with SQLite version 3.43.1
+2Dlists             _uuid               gzip                secrets
+__future__          _warnings           hashlib             select
+__hello__           _weakref            heapq               selectors
+__phello__          _weakrefset         hmac                sets
+_abc                _winapi             html                shelve
+_aix_support        _wmi                http                shlex
+_ast                _xxinterpchannels   idlelib             shutil
+_asyncio            _xxsubinterpreters  ifStatement         signal
+_bisect             _zoneinfo           imaplib             site
+_blake2             abc                 imghdr              smtplib
+_bz2                aifc                importlib           sndhdr
+_codecs             antigravity         indexOperator       socket
+_codecs_cn          argparse            inspect             socketserver
+_codecs_hk          argsParameter       io                  sqlite3
+_codecs_iso2022     array               ipaddress           sre_compile
+_codecs_jp          ast                 itertools           sre_constants
+_codecs_kr          asyncio             json                sre_parse
+_codecs_tw          atexit              keyword             ssl
+_collections        audioop             keywordArguments    stat
+_collections_abc    base64              kwargsParameter     statistics
+_compat_pickle      bdb                 lib2to3             string
+_compression        binascii            linecache           stringFormat
+_contextvars        bisect              lists               stringMethods
+_csv                breakContinuePass   locale              stringSlicing
+_ctypes             builtins            logging             stringprep
+_ctypes_test        bz2                 logicalOperators    struct
+_datetime           cProfile            lzma                subprocess
+_decimal            calendar            mailbox             sunau
+_elementtree        cgi                 mailcap             symtable
+_functools          cgitb               marshal             sys
+_hashlib            chunk               math                sysconfig
+_heapq              cmath               mathFunctions       tabnanny
+_imp                cmd                 messagesForModule   tarfile
+_io                 code                mimetypes           telnetlib
+_json               codecs              mmap                tempfile
+_locale             codeop              modulefinder        test
+_lsprof             collections         modules             textwrap
+_lzma               colorsys            moveFile            this
+_markupbase         compileall          msilib              threading
+_md5                concurrent          msvcrt              time
+_msi                configparser        multipleAssignment  timeit
+_multibytecodec     contextlib          multiprocessing     tkinter
+_multiprocessing    contextvars         nestedFunctionCalls token
+_opcode             copy                nestedLoops         tokenize
+_operator           copyreg             netrc               tomllib
+_osx_support        crypt               nntplib             trace
+_overlapped         csv                 nt                  traceback
+_pickle             ctypes              ntpath              tracemalloc
+_py_abc             curses              nturl2path          tty
+_pydatetime         dataclasses         numbers             tuples
+_pydecimal          datetime            opcode              turtle
+_pyio               dbm                 operator            turtledemo
+_pylong             decimal             optparse            typeCasting
+_queue              dictionaries        os                  types
+_random             difflib             pathlib             typing
+_sha1               dis                 pdb                 unicodedata
+_sha2               doctest             pickle              unittest
+_sha3               email               pickletools         urllib
+_signal             encodings           pip                 userInput
+_sitebuiltins       ensurepip           pipes               uu
+_socket             enum                pkgutil             uuid
+_sqlite3            errno               platform            variableScope
+_sre                exceptionHandling   plistlib            variables
+_ssl                faulthandler        poplib              venv
+_stat               fileCopy            posixpath           warnings
+_statistics         fileDelete          pprint              wave
+_string             fileDetection       profile             weakref
+_strptime           fileReader          pstats              webbrowser
+_struct             fileWriter          pty                 whileLoops
+_symtable           filecmp             py_compile          winreg
+_testbuffer         fileinput           pyclbr              winsound
+_testcapi           fnmatch             pydoc               wsgiref
+_testclinic         forLoops            pydoc_data          xdrlib
+_testconsole        fractions           pyexpat             xml
+_testimportmultiple ftplib              queue               xmlrpc
+_testinternalcapi   function            quopri              xxsubtype
+_testmultiphase     functools           random              zipapp
+_testsinglephase    gc                  randomModule        zipfile
+_thread             genericpath         re                  zipimport
+_threading_local    getopt              reprlib             zlib
+_tkinter            getpass             returnStatement     zoneinfo
+_tokenize           gettext             rlcompleter
+_tracemalloc        glob                runpy
+_tracemalloc        glob                runpy
+_tracemalloc        glob                runpy
+_tracemalloc        glob                runpy
+_typing             graphlib            sched
+_typing             graphlib            sched
+_typing             graphlib            sched
