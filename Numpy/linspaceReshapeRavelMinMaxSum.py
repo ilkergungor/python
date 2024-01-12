@@ -10,13 +10,13 @@ print(a)
 array = np.array([[12, 34, 56], [78, 96, 107], [118, 129, 140]])
 print(array.shape)
 
-array = array.reshape(1,9) #! Now it's a one dimensional array
+array = array.reshape(1,9) #! Now it's an one dimensional array
 print(array)
 
-array = array.reshape(9, 1) #! Now it's a one dimensional array
+array = array.reshape(9, 1) #! Now it's an one dimensional array
 print(array)
 
-array = array.ravel() #! Again it's a one dimensional array by ravel flatten function
+array = array.ravel() #! Ravel (flatten) function
 print(array)
 
 print(array.min())
